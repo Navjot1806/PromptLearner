@@ -29,9 +29,22 @@
 		1555E2692F228E63005C48B7 /* PromtLearnUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PromtLearnUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		1555E2B12F22908D005C48B7 /* Exceptions for "PromtLearn" folder in "PromtLearn" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 1555E24C2F228E63005C48B7 /* PromtLearn */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		1555E24F2F228E63005C48B7 /* PromtLearn */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				1555E2B12F22908D005C48B7 /* Exceptions for "PromtLearn" folder in "PromtLearn" target */,
+			);
 			path = PromtLearn;
 			sourceTree = "<group>";
 		};
